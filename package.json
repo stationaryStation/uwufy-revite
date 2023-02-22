@@ -6,7 +6,9 @@
   },
   "keywords": [],
   "author": "Jan",
-  "dependencies": {},
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
   "devDependencies": {
     "revolt.js": "^6.0.0-rc.24"
   }
